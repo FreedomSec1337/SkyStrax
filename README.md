@@ -1,6 +1,5 @@
-# SkyStrax Framework Remake v3.5
-
 ![SkyStrax Framework](./ss.jpg)
+ # SkyStrax Framework Remake v3.5
 
 SkyStrax Framework is a simple, elegant, and modern web (DDoS) Framework with a minimalist design thats easy to manage.
 
