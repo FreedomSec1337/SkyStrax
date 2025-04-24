@@ -1,0 +1,13 @@
+{
+  "name": "SkyStrax Framework Rimek",
+  "version": "3.5.0",
+  "scripts": {
+    "start": "npm install express axios && sh web.sh"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^4.21.2"
+  },
+  "author": "./Freedom Security 1337",
+  "license": "MIT"
+}
